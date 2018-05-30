@@ -3,19 +3,20 @@ body{
 }
 
 
-.home{
-  display: flex;
+.container{
+    display: flex;
+    justify-content: flex-end;
+    width: 100%
 }
-.home div{
-  border: 1px #ccc solid;
-  padding: 10px;
-  justify-content: space-between;
+
+.outer-box{
+    width:70%;
+    background:black;
 }
-.box{
-  flex:1;
-  
+
 nav{
     font-size: 30px;
+    margin-bottom:3%;
     color: white;
     background-color: #009111;
     height: 7%;
