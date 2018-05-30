@@ -5,13 +5,14 @@ body{
 
 .container{
     display: flex;
-    justify-content: flex-end;
+    /* justify-content: space-between; */
+    /* justify-content: flex-end; */
     width: 100%
 }
 
 .outer-box{
     width:70%;
-    background:black;
+    /* background:black; */
 }
 
 nav{
