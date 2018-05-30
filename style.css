@@ -1,5 +1,10 @@
-body {
-    background-color:#4CFF52;
+body{
+    background: linear-gradient(90deg, rgba(168,235,112,1) 0%, rgba(0,243,53,1) 100%);
 }
 
-
+nav{
+    font-size: 30px;
+    color: white;
+    background-color: #009111;
+    height: 7%;
+}
